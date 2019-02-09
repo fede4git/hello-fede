@@ -1,3 +1,5 @@
-This is a test from my pc to github account
+Test GitHub Account
 
 If this file is updated the git will keep track of the changes
+
+Checking if added new text and changing or replacing text on lines is been tracked.
